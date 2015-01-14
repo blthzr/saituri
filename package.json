@@ -1,0 +1,29 @@
+{
+  "name": "saituri",
+  "version": "0.0.1",
+  "description": "Community driven grocery price service",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.11.0",
+    "mongoose": "^3.8.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blthzr/saituri.git"
+  },
+  "keywords": [
+    "community",
+    "grocery",
+    "store"
+  ],
+  "author": "blthzr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blthzr/saituri/issues"
+  },
+  "homepage": "https://github.com/blthzr/saituri"
+}
